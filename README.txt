@@ -1,1 +1,4 @@
-# [Portfolio Website]("https://brileighk.github.io/Portfolio/")
+# Portfolio Website
+
+# Tech Stack:
+- HTML, CSS, SCSS, JavaScript, Particles.js, Google Analytics
